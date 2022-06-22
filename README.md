@@ -64,4 +64,4 @@ directly reference the article you want to use.
 **Congratulations!** In this practice you have learned how to
 
 1. Normalize data in your reducer for more optimal performance.
-2. Choose data using O(1) time complexity.
+2. Choose data using O(1) time complexity.# D3-NormalizeData
